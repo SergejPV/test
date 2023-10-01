@@ -1,2 +1,1 @@
-# test
-Test result
+не удалось
